@@ -1,0 +1,10 @@
+/* App.css */
+body {
+  margin: 0;
+  background-color: #f0f8ff; /* light blue background */
+  font-family: sans-serif;
+}
+
+h1 {
+  color:blue;
+}
